@@ -94,7 +94,7 @@ Ver `05_vistas_consultas.sql`:
 
 ## Créditos y autor
 
-- **Autoras:** Dana Valentina Diaz Florez y Vivianne Salina Rueda
+- **Autoras:** Dana Valentina Diaz Florez y Vivianne Salina Rueda G2
 - **Curso:** G2
 - **Profesor:** Didier Vallejo
 - **Fecha:** 19 de octubre de 2026
