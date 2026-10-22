@@ -1,0 +1,1 @@
+SELECT * FROM eventos_premier.vista_resumen_reservas;
